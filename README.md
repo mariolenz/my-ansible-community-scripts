@@ -34,3 +34,10 @@ Announce upcoming removal on Bullhorn:
 usage: removal_process/bullhorn_3rd.sh collection_name community_topic ansible_version
 # removal_process/bullhorn_3rd.sh cisco.nso https://github.com/ansible-community/community-topics/issues/155 9
 ```
+
+## Collection inclusion process
+Announce the inclusion of a new collection on Bullhorn:
+
+```shell
+collection_inclusion/bullhorn.sh dellemc.unity https://galaxy.ansible.com/dellemc/unity rajendraindukuri https://github.com/rajendraindukuri anupamaloke https://github.com/anupamaloke
+```
