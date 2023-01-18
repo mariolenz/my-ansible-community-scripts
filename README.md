@@ -1,3 +1,5 @@
+Archived in favor of [ansible-community/community-topics/scripts](https://github.com/ansible-community/community-topics/tree/main/scripts) ([PR 183](https://github.com/ansible-community/community-topics/pull/183)).
+
 # My Ansible Community Scripts
 These are some scripts I use to create Ansible community announcements on [Bullhorn](https://github.com/ansible/community/wiki/News#the-bullhorn) and similar.
 
