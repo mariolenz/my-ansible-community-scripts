@@ -7,7 +7,7 @@ then
     exit 1
 fi
 
-echo -n "The [$1]($2) collection has passed the [Collection inclusion procedure](https://github.com/ansible-collections/ansible-inclusion#readme) and will be included in the next minor release of Ansible. Thanks to [$3]($4)"
+echo -n "The [$1]($2) collection has passed the [Collection inclusion procedure](https://github.com/ansible-collections/ansible-inclusion#readme) and will be included in the next minor release of the Ansible Community Package. Thanks to [$3]($4)"
 
 shift 4
 
